@@ -8,6 +8,16 @@
 
 要知道大学的图书馆的书，好书难觅，找到了要么破，要么被涂鸦。
 
+然后就决定用 github 仓库来管理开源图书馆了。
+
+### github 使用教程 
+1. 怎么用 issues https://github.com/CoderUnion/coderunion-github-talk/issues/57
+2. github 使用教程收集   https://github.com/CoderUnion/coderunion-github-talk/issues/62
+
+
+非常欢迎大家开 issue 讨论书籍中的智慧，俗话说早问道夕可死，并且也能在在上面以书会友,写了读书笔记心得也可以发个链接，或者直接贴到上面
+
+
 ## 规则
 #### 零：书籍要求
 1. 图书馆的书只允许编程类书籍
@@ -24,7 +34,7 @@
 
 ####  二：使用书籍列表.md 来管理图书
 书籍列表格式为：
-书|管理员| 拥有者| 捐赠者|
+|书|管理员| 拥有者| 捐赠者|读书笔记|
 
 [书籍列表地址](http://git.io/v8e1W)
 
